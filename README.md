@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seojin's%20GitHub&fontSize=50&animation=twinkling)
 
+<h1>👋 Hi, I’m Seojin Lee</h1>
+
+<div align="center">
+  <strong>Entry-Level IT / Software Developer</strong><br/>
+  with experience in <strong>Web, Mobile App, and AI projects</strong>
+</div>
+<br/>
+<br/>
+
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
     <div style="margin: 0 auto; text-align: center;">
@@ -10,11 +19,8 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
@@ -24,17 +30,4 @@
     </div>
 </div><br>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/seojin122">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seojin122&layout=compact&theme=nord" />
-  </a>
-</p>
-
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/seojin122">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seojin122&show_icons=true&include_all_commits=true&theme=nord" />
-  </a>
-</p>
 
